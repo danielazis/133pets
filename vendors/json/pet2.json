@@ -1,0 +1,18 @@
+{
+  "id": 1989,
+  "category": {
+    "id": 0,
+    "name": "dog"
+  },
+  "name": "Shurato",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "Vacinado"
+    }
+  ],
+  "status": "solded"
+}

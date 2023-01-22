@@ -1,0 +1,23 @@
+[
+  {
+    "id": 23061989,
+    "username": "Petlover",
+    "firstName": "Anna",
+    "lastName": "Levi",
+    "email": "anna777@petlover.com",
+    "password": "123456",
+    "phone": "4567841",
+    "userStatus": 1
+  }
+  ,
+  {
+    "id": 21012023,
+    "username": "Caretaker",
+    "firstName": "Maria",
+    "lastName": "Cardoso",
+    "email": "mari12@petlover.com",
+    "password": "654321",
+    "phone": "1472589",
+    "userStatus": 0
+  }
+]
