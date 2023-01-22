@@ -1,0 +1,6 @@
+petid,category_id,category_name,name,tags_id,tags_name,status,status_code
+744101,1,dog,Rex,1,vacinado,disponivel,200
+744102,2,cat,Bichano,2,castrado,vendido,200
+744103,3,fish,Nemo,0,,disponivel,200
+7744104,2,cat,Mingau,1,vacinado,disponivel,200
+7744104,1,dog,Scooby,1,vacinado,vendido,200
