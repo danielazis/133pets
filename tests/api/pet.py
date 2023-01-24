@@ -143,7 +143,7 @@ def testar_incluir_pet_json_dinamico(petid, category_id, category_name, name, ta
     assert resultado_obtido.status_code == int(status_code)
     corpo_da_resposta = resultado_obtido.json()
     assert corpo_da_resposta['id'] == int(petid)
-    assert corpo_da_resposta['category']['id'] == int (category_id)
+    assert corpo_da_resposta['category']['id'] == int(category_id)
     assert corpo_da_resposta['category']['name'] == category_name
     assert corpo_da_resposta['name'] == name
     assert corpo_da_resposta['tags'][0]['id'] == int(tags_id)
